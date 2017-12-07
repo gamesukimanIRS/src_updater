@@ -3,6 +3,8 @@ srcのアップデートを簡単にするだけ(プロトコル更新のみ)
 
 src\network\mcpe\protocol\ProtocolInfo.phpの奴(新式)専用
 
+Mac不可能
+
 #### 対応状況
 2017/11/25 ver1.2.5 (141) 対応
 2017/12/07 ver1.2.6 (150) 対応
